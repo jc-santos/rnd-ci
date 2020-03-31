@@ -1,0 +1,1 @@
+![Jekyll site CI](https://github.com/jc-santos/rnd-ci/workflows/Jekyll%20site%20CI/badge.svg)
